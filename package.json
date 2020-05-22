@@ -1,0 +1,22 @@
+{
+  "name": "vscode-go-extension-pack",
+  "displayName": "Go Extension Pack by Loadsmart",
+  "description": "Set of extensions to start developing Go services at Loadsmart",
+  "version": "0.0.1",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "keywords": [
+    "docker",
+    "go"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.go",
+    "editorconfig.editorconfig",
+    "ms-azuretools.vscode-docker"
+  ]
+}
