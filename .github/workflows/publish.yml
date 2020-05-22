@@ -1,0 +1,22 @@
+name: Publish VSCode Extension
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  publish:
+    name: Publish extension to VSCode Marketplace
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@master
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Publish extension
+        run: npm run deploy
+        env:
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
