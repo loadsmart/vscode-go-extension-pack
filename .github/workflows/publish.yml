@@ -10,8 +10,7 @@ jobs:
     name: Publish extension to VSCode Marketplace
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
 
       - name: Install Node.js
         uses: actions/setup-node@v1
