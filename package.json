@@ -2,8 +2,13 @@
   "name": "vscode-go-extension-pack",
   "displayName": "Go Extension Pack by Loadsmart",
   "description": "Set of extensions to start developing Go services at Loadsmart",
+  "publisher": "Loadsmart",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loadsmart/vscode-go-extension-pack.git"
+  },
   "engines": {
     "vscode": "^1.45.0"
   },
