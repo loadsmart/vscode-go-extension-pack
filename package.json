@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/loadsmart/vscode-go-extension-pack.git"
   },
+  "icon": "resources/icon.png",
   "engines": {
     "vscode": "^1.45.0"
   },
