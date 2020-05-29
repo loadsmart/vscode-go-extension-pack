@@ -5,6 +5,8 @@ All notable changes to the "vscode-go-extension-pack" extension pack will be doc
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+## Changed
+- Icon for VSCode Marketplace
 
 ## [0.1.0] - 2020-05-22
 - Initial release
