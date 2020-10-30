@@ -18,9 +18,9 @@ Tools for working with Docker containers.
 
 Use editor settings found in `.editorconfig` file.
 
-### [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.go) by Microsoft
+### [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) by Go Team at Google
 
-Adds Go language support in VS Code.
+Provides rich language support for Go in VS Code.
 
 ### [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) by Microsoft
 
