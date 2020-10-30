@@ -30,6 +30,6 @@
     "ms-vscode-remote.remote-containers"
   ],
   "devDependencies": {
-    "vsce": "^1.75.0"
+    "vsce": "^1.81.1"
   }
 }
