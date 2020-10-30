@@ -5,6 +5,8 @@ All notable changes to the "vscode-go-extension-pack" extension pack will be doc
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+## Changed
+- Update `vsce` to 1.81.1
 
 ## [0.2.0] - 2020-06-02
 ## Changed
